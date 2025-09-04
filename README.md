@@ -38,9 +38,9 @@ Here are a few highlights — check my pinned repos for more!
 ---
 
 ## 🌍 Connect With Me
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)]([https://discord.gg/](https://discord.gg/eDTz7MxQkp))  
-[![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)]([https://twitch.tv/](https://www.twitch.tv/kurai_twitch)  
-[![Kick](https://img.shields.io/badge/Kick-00FF00.svg?&style=for-the-badge&logo=kick&logoColor=black)]([https://kick.com/](https://kick.com/kurai-live)  
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/eDTz7MxQkp))  
+[![Twitch](https://img.shields.io/badge/Twitch-9146FF.svg?&style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/kurai_twitch)  
+[![Kick](https://img.shields.io/badge/Kick-00FF00.svg?&style=for-the-badge&logo=kick&logoColor=black)](https://kick.com/kurai-live)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://kurai.dev)  
 
 ---
